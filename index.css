@@ -1,0 +1,74 @@
+body
+{
+  <command>overflow: hidden;
+}
+#land
+{
+    background-image:url(foodimage.jpg);
+    background-position: center;
+    background size: cover;
+    text-decoration:none;
+    color:blue;
+    height:100vh;   
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+#first
+{
+    background-color:dimgray;
+    border: 1px;
+    height: 40px;
+    border: 0;
+    margin: 0;
+}
+#second
+{
+    background-color:grey ;
+    border: 0;
+    margin: 0;
+}
+#india
+{
+    background-color: gray;
+    border: 0;
+    margin: 0;
+}
+#third
+{
+    background-color: gray;
+    border: 2px;
+    margin: 0;
+}
+#address
+{
+    background-color: gold;
+    border: 2px;
+    margin: 0;
+}
+#phone
+{
+    background-color: darkslateblue;
+    border:2px;
+    margin: 0;
+}
+#fourth
+{
+    background-color: lightpink;
+    margin: 0;
+}
+#fifth
+{
+    background-color: lightblue;
+}
+#mail
+{
+    background-color: lawngreen;
+     margin: 0;
+}
+#mark
+{
+    position: relative;
+    left: 100px;
+}
